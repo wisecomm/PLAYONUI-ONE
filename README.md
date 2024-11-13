@@ -14,3 +14,9 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 tailwind.config.js : 수정
+
+# 에러 처리
+- Unknown at rule @tailwind vscode 코드 워닝
+Go to the Extensions view in VS Code (Ctrl+Shift+X or Cmd+Shift+X on Mac).
+Search for "Tailwind CSS IntelliSense" and install it.
+
